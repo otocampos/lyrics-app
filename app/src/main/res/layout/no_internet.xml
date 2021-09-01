@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/layout_nointernet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/nointernet"
+            android:contentDescription="@string/nointernet"
+            android:background="#88ffffff"/>
+        <TextView
+            android:layout_width="301dp"
+            android:layout_height="72dp"
+            android:textSize="24sp"
+            android:fontFamily="casual"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/nointernet" />
+
+        <Button
+            android:id="@+id/btnrecarregar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/recarregar"
+            android:visibility="visible" />
+
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

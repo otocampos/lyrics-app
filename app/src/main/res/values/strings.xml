@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">lyricseditor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_letras">Top Letras</string>
+    <string name="top_nacional_titulo">Top Artistas Nacionais</string>
+    <string name="top_internacional_titulo">Top Artistas Internacionais</string>
+    <string name="top_traducoes_titulo">Top Traduções</string>
+    <string name="sucesso_favoritado">Favoritado com Sucesso</string>
+    <string name="title_activity_bottom_navigation_test">BottomNavigationTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Favoritos</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="appwidget_text">TESTE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="artrel">Artistas Relacionados</string>
+    <string name="semtrad">Não possui tradução</string>
+    <string name="deletado">Deletado com Sucesso</string>
+    <string name="trad">Tradução</string>
+    <string name="letra">Letra</string>
+    <string name="topmusicas">Músicas Populares</string>
+    <string name="albuns">Albúns mais Populares</string>
+    <string name="nointernet">Oooooops Parece que você está com algum problema com a internet</string>
+    <string name="recarregar">Recarregar</string>
+    <string name="descfavart">Artista favorito</string>
+    <string name="deletar">Deletar</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_historico">Historico</string>
+    <string name="erro">Ooops Ocorreu um erro</string>
+
+</resources>

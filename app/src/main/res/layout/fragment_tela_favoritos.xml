@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ocdev.com.br.lyricseditor.TelasFragments.TelaFavoritosFragment">
+
+   <ImageView
+       android:id="@+id/nosongimg"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:src="@drawable/nosong"
+       android:background="#88ffffff"
+       android:contentDescription="@string/descfavart" />
+
+
+
+   <android.support.v7.widget.RecyclerView
+       android:id="@+id/recyclerview_favoritos"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+   </android.support.v7.widget.RecyclerView>
+
+</FrameLayout>
